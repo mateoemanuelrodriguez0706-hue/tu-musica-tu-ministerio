@@ -32,7 +32,7 @@ window.SITE_CONFIG = {
   // WhatsApp: número en formato internacional, solo dígitos. Ej.: "5491100000000" (NO es real).
   whatsapp: "5493413459128",
   // Correo de contacto/soporte que querés mostrar en la web y en las páginas legales.
-  email: "",
+  email: "mrproducciones54@gmail.com",
 
   /* --- DATOS LEGALES (páginas de privacidad y términos) ------------ */
   titular: "MR Producciones",           // nombre comercial o legal del vendedor
