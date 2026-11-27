@@ -43,7 +43,7 @@ window.SITE_CONFIG = {
   // Dejar vacío si no se usa. Si se completa, aparece el aviso de cookies
   // y el píxel se carga SOLO si la persona acepta.
   metaPixelId: "",            // ID del píxel de Meta (solo números). NO se inventa: confirmalo antes.
-  clarityId: "",              // ID de proyecto de Microsoft Clarity (opcional)
+  clarityId: "zkaoj4yqga",              // ID de proyecto de Microsoft Clarity (opcional)
 
   /* --- SITIO ------------------------------------------------------- */
   // URL pública final de la web (sirve para compartir). Ej.: "https://usuario.github.io/tu-musica-tu-ministerio/"

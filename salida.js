@@ -10,7 +10,6 @@
 
   function abrir() {
     if (mostrado || visto() || Date.now() - inicio < 8000) return;
-    var ck = document.getElementById('cookies'); if (ck && !ck.hidden) return;
     marcar(); ultimoFoco = document.activeElement; m.hidden = false;
     var x = document.getElementById('salidaX'); if (x) x.focus();
     if (window.clarity) try { window.clarity('event', 'aviso_salida'); } catch (e) {}
