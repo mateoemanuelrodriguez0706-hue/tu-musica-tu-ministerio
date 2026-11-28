@@ -11,7 +11,7 @@ window.SITE_CONFIG = {
   /* --- VENTA ------------------------------------------------------- */
   // Pegá acá el enlace de pago (checkout) que te da Hotmart para el producto.
   // Ejemplo de forma (NO es real): "https://pay.hotmart.com/XXXXXXXX"
-  hotmartUrl: "https://pay.hotmart.com/Y108674429O",
+  hotmartUrl: "https://pay.hotmart.com/N108704032S",
 
   precio: 29,                 // precio de lanzamiento en USD
   moneda: "USD",
